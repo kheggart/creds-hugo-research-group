@@ -12,8 +12,7 @@ bio: Dr Keith Heggart is an early career researcher in the School of Internation
 interests:
 - Learning Design
 - Learning Analytics
-- Citizenship Education 
-- Critical and Creative Thinking
+- Citizenship Education
 
 social:
 - icon: twitter
